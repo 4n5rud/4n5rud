@@ -11,6 +11,6 @@
 
 <br>
 
-**Click the thumbnail to watch the demo video.**
+**Click the thumbnail to watch the video.**
 
 </div>
